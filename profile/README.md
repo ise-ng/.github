@@ -1,17 +1,15 @@
 <div align="center">
 
-# Ișę
+<img src="assets/banner.svg" alt="Ișę — Nigeria's trusted task marketplace" width="100%" />
 
-### Nigeria's trusted task marketplace
+<br/><br/>
 
-*Ișę (ee-sheh) — Yoruba for "work."*
-
-Get everyday tasks done by people you can actually trust — and get paid fairly for honest work.
+**Get everyday tasks done by people you can actually trust — and get paid fairly for honest work.**
 
 <br/>
 
 ![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-008751?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Building-FF6B00?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Building-EE1E25?style=for-the-badge)
 ![We're hiring](https://img.shields.io/badge/We're-Hiring-1A73E8?style=for-the-badge)
 
 </div>
@@ -58,6 +56,16 @@ We're a small, senior team that ships. A few things that are true about engineer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+</div>
+
+### A real design system
+
+Color, type, spacing, radius and shadow live as **design tokens** (Style Dictionary), so every app — PWA, marketing, and beyond — draws from one source of truth and never drifts.
+
+<div align="center">
+
+<img src="assets/palette.svg" alt="Ișę design tokens — brand color palette" width="100%" />
 
 </div>
 
