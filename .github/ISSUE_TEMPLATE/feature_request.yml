@@ -1,0 +1,41 @@
+name: 💡 Feature request / idea
+description: Suggest something that would make Ișę better
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea? We'd love to hear it. Tell us the problem first — the best solutions usually come from a clear problem.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: What's frustrating, slow, or missing today?
+      placeholder: As a worker, it's hard to tell whether a job is worth my time because...
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Your proposed solution, if you have one.
+    validations:
+      required: false
+  - type: dropdown
+    id: who
+    attributes:
+      label: Who is this mostly for?
+      options:
+        - Customers posting tasks
+        - Workers doing tasks
+        - Both
+        - Not sure
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else?
+      description: Examples, references, or alternatives you've considered.
+    validations:
+      required: false

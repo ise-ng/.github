@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/ise-ng/.github/blob/main/SECURITY.md
+    about: Please report security issues privately — not as a public issue.
+  - name: 💬 General questions
+    url: mailto:hello@getise.com
+    about: Not a bug or feature request? Reach us by email.
+  - name: 💼 Careers
+    url: mailto:careers@getise.com
+    about: Want to build Ișę with us? We'd love to talk.
